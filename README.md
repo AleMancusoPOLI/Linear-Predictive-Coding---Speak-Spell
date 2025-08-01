@@ -7,3 +7,5 @@ The aim of this project is to explore the powerfulness of Linear Predictive Codi
 * Evaluate the quality of the reconstructed signal compared to the original.
 
 More extensive information can be found in the project's [report](Report.pdf)
+
+Made by [Matteo Di Giovanni](https://github.com/matteodigii) and [Alessandro Mancuso](https://github.com/AleMancusoPOLI)
