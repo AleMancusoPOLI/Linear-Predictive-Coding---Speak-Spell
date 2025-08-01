@@ -6,4 +6,4 @@ The aim of this project is to explore the powerfulness of Linear Predictive Codi
 * Reconstruct the speech signal from the LPC parameters;
 * Evaluate the quality of the reconstructed signal compared to the original.
 
-More extensive information can be found in the prohect's [report](\Report.pdf)
+More extensive information can be found in the project's [report](Report.pdf)
